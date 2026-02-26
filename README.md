@@ -2,7 +2,7 @@
 **Kigo524/Kigo524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hola, mi nombre es Enrique 👋
-### First year student: C & html.
+### Estudiante de LTSI: C / html / Java.
 
 Soy estudiante en la licenciatura en Tecnologia y Sistemas de la Informacion en la UAM desde octubre del 2024.
 
